@@ -1,0 +1,18 @@
+.mini{
+	width:25%;
+	border-radius:5px;
+}
+
+.cart{
+	color:"#c0c0c0"
+}
+
+.spacing{
+	text-align: center;
+	padding-top: 2%
+}
+
+.trashIcon{
+	margin-left: 30px;
+	cursor: pointer;
+}

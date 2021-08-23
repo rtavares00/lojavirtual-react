@@ -1,0 +1,21 @@
+header:{
+	margin-bottom:5%;
+}
+
+.bar{
+	border:1px solid #000;
+	background-color:#000;
+	color:#FFFFFF;
+	/*
+	position: fixed;
+	width:100%;
+	*/
+}
+
+.logo h1{
+	margin-top:2%;
+	margin-bottom:2%;
+	margin-left:10%;
+	font-family: 'Klee One', cursive;
+	color:#fff;
+}

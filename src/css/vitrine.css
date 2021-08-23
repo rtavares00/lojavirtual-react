@@ -1,0 +1,15 @@
+#products{
+	margin-top:3%;
+}
+
+._block{
+	padding-bottom:5%;
+	/*margin-right:2%;*/
+	text-align: center;
+}
+
+._image
+{
+	width:50%;
+	border-radius:10px
+}
